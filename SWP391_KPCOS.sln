@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{7DE6F682-52AE-4C08-BEE9-65CC9432B91B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPCOS_API", "KPCOS_API\KPCOS_API.csproj", "{2C54C6B3-47C9-4AC6-AC29-B6201021D5C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPCOS_API", "KPCOS_API\KPCOS_API.csproj", "{2C54C6B3-47C9-4AC6-AC29-B6201021D5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{21841240-2F53-4225-8DBF-4A1BF7F88E03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2C54C6B3-47C9-4AC6-AC29-B6201021D5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C54C6B3-47C9-4AC6-AC29-B6201021D5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C54C6B3-47C9-4AC6-AC29-B6201021D5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21841240-2F53-4225-8DBF-4A1BF7F88E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21841240-2F53-4225-8DBF-4A1BF7F88E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21841240-2F53-4225-8DBF-4A1BF7F88E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21841240-2F53-4225-8DBF-4A1BF7F88E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
